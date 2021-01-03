@@ -1,6 +1,8 @@
 # VNocr
 OCR script for Visual Novels/general text on images
 
+## How it works (requirements/installation)
+
 1. `xfce4-screenshooter`  
 screenshots a region and saves it to ~/ocr.png  
 swap it to your own screenshot program if it doesn't work  
@@ -15,3 +17,10 @@ passes text in clipboard with where it is caught by yomichan
 that opens a popup with that text where you can look up word definitions  
 make sure to check "Enable native popups when copying Japanese text" in yomichan options  
 (be careful when copying big texts that can contain kana/kanji in them)  
+
+## Usage
+
+- Bind `ocr_script` to a hotkey
+- Press the hotkey
+- Select a region with text
+- Text extracted by OCR will be copied to clipboard
