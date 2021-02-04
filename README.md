@@ -24,3 +24,10 @@ make sure to check "Enable native popups when copying Japanese text" in yomichan
 - Press the hotkey
 - Select a region with text
 - Text extracted by OCR will be copied to clipboard
+
+### Additional links
+
+[Tesseract Docs - Improving Recognition Quality](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html)
+[StackOverflow - Remove background text and noise from an image using image processing with OpenCV](https://stackoverflow.com/questions/60145306/remove-background-text-and-noise-from-an-image-using-image-processing-with-openc/60404579#60404579)
+[StackOverflow - How to remove background noise in image without damaging text?](https://stackoverflow.com/questions/57241151/how-to-remove-background-noise-in-image-without-damaging-text)
+[StackOverflow - Background image cleaning for OCR](https://stackoverflow.com/questions/58636157/background-image-cleaning-for-ocr)

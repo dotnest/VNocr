@@ -1,2 +1,2 @@
-#!/usr/bin/zsh
+#!/usr/bin/bash
 xfce4-screenshooter -r -s ~/ocr.png && tesseract ~/ocr.png ocr -l jpn && cat ~/ocr.txt | tr -d ' ' | tr -d '\n' | xclip -selection clipboard
